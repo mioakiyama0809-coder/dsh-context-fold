@@ -1,0 +1,6 @@
+- insert:
+    - id: context-fold
+      name: dsh-context-fold
+      config:
+        foldDirName: .dsh-folds
+        maxDistillTokens: 4096

@@ -1,0 +1,15 @@
+dsh-context-fold
+Copyright (c) 2026 dsh-context-fold contributors
+Licensed under the MIT License (see LICENSE).
+
+Third-Party Attributions
+------------------------
+
+The restrained streamline motion primitives in `src/client/motion.jsx` and
+`src/client/styles.js` (cubic-Bezier flight trails, landing ripples, and the
+1.2px orbiting running border) are inspired by and adapted from:
+
+- Lancer Light UI (`@lancer/light-ui`)
+  Lancer contributors, 2026 — MIT License
+- Upstream project: pi-gui (https://github.com/minghinmatthewlam/pi-gui)
+  Copyright (c) 2026 Matthew Lam — MIT License
